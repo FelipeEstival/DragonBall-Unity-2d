@@ -10,7 +10,7 @@ Projeto colaborativo da disciplina **Tópicos Essenciais de Tecnologia**. A equi
 
 # Integrantes:
 
-Felipe Estival
-Gabriel Martins
-Duran Junior
-Arthur Goulart
+- Felipe Estival
+- Gabriel Martins
+- Duran Junior
+- Arthur Goulart
