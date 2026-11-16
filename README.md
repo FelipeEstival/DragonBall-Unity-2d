@@ -7,6 +7,8 @@ Projeto colaborativo da disciplina **Tópicos Essenciais de Tecnologia**. A equi
 - Movimentação e combate com socos, com Goku como personagem jogável.
 - Sete fases em Namekusei, com um adversário por fase. Nas cinco primeiras, Goku enfrentará as Forças Especiais Ginyu. Nas duas últimas, enfrentará Freeza.
 - Uma Esfera do Dragão por fase. A coleta desbloqueará a próxima fase, com uma animação de teleporte. Ao reunir as sete esferas, Goku poderá escapar de Namekusei.
+<<<<<<< HEAD
+=======
 
 # Integrantes:
 
@@ -14,3 +16,4 @@ Projeto colaborativo da disciplina **Tópicos Essenciais de Tecnologia**. A equi
 - Gabriel Martins
 - Duran Junior
 - Arthur Goulart
+>>>>>>> 8feb3072a082eea96cfb34fac6bf47fa03883a48
